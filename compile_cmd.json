@@ -1,0 +1,13 @@
+[
+	{
+		"directory": "/home/vagrant/diff_project",
+		"command": "/usr/bin/g++ -Wall -std=c++11 -c main.cpp -o main.o",
+		"file": "main.cpp"
+	}
+	,
+	{
+		"directory": "/home/vagrant/diff_project",
+		"command": "/usr/bin/g++ -Wall -std=c++11 -c functions.cpp -o functions.o",
+		"file": "functions.cpp"
+	}
+]

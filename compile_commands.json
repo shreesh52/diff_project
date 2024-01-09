@@ -1,0 +1,28 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-std=c++11",
+            "-o",
+            "main.o",
+            "main.cpp"
+        ],
+        "directory": "/home/vagrant/diff_project",
+        "file": "main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-std=c++11",
+            "-o",
+            "functions.o",
+            "functions.cpp"
+        ],
+        "directory": "/home/vagrant/diff_project",
+        "file": "functions.cpp"
+    }
+]
